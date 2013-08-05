@@ -1,6 +1,6 @@
 ##User Guide
 
-- Download **EN_GJ_Dictionary by Arpan Chavda.mobi** file from this repository. [Download Link](https://github.com/arpan-chavda/kindle_gujarati_dictionary/blob/master/EN_GJ_Dictionary%20by%20Arpan%20Chavda.mobi)
+- Download **EN_GJ_Dictionary by Arpan Chavda.mobi** file from this repository. [Download Link](https://github.com/arpan-chavda/kindle_gujarati_dictionary/blob/master/EN_GJ_Dictionary%20by%20Arpan%20Chavda.mobi?raw=true)
 - Paste this **EN_GJ_Dictionary by Arpan Chavda.mobi** to Documents folder of your Kindle.
 - Dictionary will show as **"guj_deduped_orig"** in Dictionary collection of your kindle.Set this as default dictionary through settings.Its done!!!
 
