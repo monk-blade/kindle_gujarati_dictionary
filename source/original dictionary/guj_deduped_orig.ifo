@@ -1,0 +1,11 @@
+StarDict's dict ifo file
+version=2.4.2
+wordcount=63039
+idxfilesize=1248491
+bookname=OpenGujarat(EN_GU)Build_12.04#4
+author=Arpan Chavda
+email=arpanchavdaeng@gmail.com
+website=https://github.com/codejar-lab/oguj-dict-pkg
+description=Cross platform OpenGujarat(English to Gujarati) Dictionary
+date=2013.05.10
+sametypesequence=m
