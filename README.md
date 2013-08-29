@@ -1,8 +1,8 @@
 ##User Guide
 
-- Download **EN_GJ_Dictionary by Arpan Chavda.mobi** file from this repository. [Download Link](https://github.com/arpan-chavda/kindle_gujarati_dictionary/blob/master/EN_GJ_Dictionary%20by%20Arpan%20Chavda.mobi?raw=true)
-- Paste this **EN_GJ_Dictionary by Arpan Chavda.mobi** to Documents folder of your Kindle.
-- Dictionary will show as **"guj_deduped_orig"** in Dictionary collection of your kindle.Set this as default dictionary through settings.Its done!!!
+- Download **Gujarati Lexicon Dictionary.mobi** file from this repository. [Download Link](https://github.com/arpan-chavda/kindle_gujarati_dictionary/blob/master/Gujarati%20Lexicon%20Dictionary.mobi?raw=true)
+- Paste this **Gujarati Lexicon Dictionary.mobi** to Documents folder of your Kindle.
+- Dictionary will show as **"Gujarati Lexicon Dictionary"** in Dictionary collection of your kindle.Set this as default dictionary through settings.Its done!!!
 
 
 See my another **[Project](https://github.com/codejar-lab/oguj-dict-pkg/)** so you can use this dictionary in Linux and Android devices. 
@@ -13,7 +13,7 @@ PS: **FOSS ROCKS;)**
 
 ##Bugs
 
-CAUTION : KINDLE **DOES NOT** SUPPORT UTF-8 LANGUAGES (GUJARATI,HINDI ETC) SO YOU MAY SEE  FONT RENDERING PROBLEM USING THIS DICTIONARY BUT TEXT IS READABLE.અરે યાર.કઈક તો જતું કરવું પડે ને ...
+CAUTION : KINDLE **DOES NOT** SUPPORT UTF-8 LANGUAGES (GUJARATI,HINDI ETC) SO YOU MAY SEE  FONT RENDERING PROBLEM USING THIS DICTIONARY BUT TEXT IS READABLE.
 
 ####Real credit of Database of 63,000 words goes to [GujaratiLexicon.com](http://www.gujaratilexicon.com)
 
