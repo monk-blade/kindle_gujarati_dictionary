@@ -11,6 +11,10 @@ See my another **[Project](https://github.com/codejar-lab/oguj-dict-pkg/)** so y
 
 PS: **FOSS ROCKS;)**
 
+##TODO
+
+- There is no inflections support for now.(Inflections support means when you search for word like "found" it should display meaning of "find")
+
 ##Bugs
 
 CAUTION : KINDLE **DOES NOT** SUPPORT UTF-8 LANGUAGES (GUJARATI,HINDI ETC) SO YOU MAY SEE  FONT RENDERING PROBLEM USING THIS DICTIONARY BUT TEXT IS READABLE.
