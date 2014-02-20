@@ -3,12 +3,12 @@ Gujarati dictionary for Kindle
 
 Install
 =======
-1. Download 'Gujarati Lexicon Dictionary.mobi' file from this repository
+1. Download 'GujaratiLexiconDictionary.mobi' file from this repository
 
-2. Copy 'Gujarati Lexicon Dictionary.mobi' to Documents folder of your Kindle.
+2. Copy 'GujaratiLexiconDictionary.mobi' to Documents folder of your Kindle.
 
-3. Dictionary will show as 'Gujarati Lexicon Dictionary' in Dictionary
-collection of your Kindle. Set this as default dictionary through settings.
+3. Dictionary will show as 'GujaratiLexiconDictionary' in Dictionary
+collection of your Kindle. Set this as default dictionary using settings.
 
 Contribute
 ==========

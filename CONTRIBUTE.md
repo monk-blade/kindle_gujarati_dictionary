@@ -1,6 +1,12 @@
 Developer Guide
 ===============
 
+#### Layout
+
+* src: Source of dictionary.
+* tools: Contains some scripts to build dictionary.
+* screenshots: Some cool screenshots.
+
 #### Linux
 
 1. Clone this repository.
@@ -17,6 +23,12 @@ text file.
 5. Once you have this file, use tab2opf.py from tools folder or download it
 from [here](http://www.klokan.cz/projects/stardict-lingea/) This is a free
 Python script by Petr Klokan.
+
+You can get this file using,
+
+   `./get_tab2opf.py`
+
+script.
 
 6. Run,
 
