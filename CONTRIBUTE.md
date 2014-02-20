@@ -28,19 +28,14 @@ files.
 7. Edit the dictionary.opf file to specify the name of the dictionary and the
 input/output output languages.
 
-8. Get mobigen.exe form tools folder or download from:
-[here](http://www.mobipocket.com/soft/prcgen/mobigen.zip)
+8a. You can use opf2mobi.sh script to get mobigen.exe from:
+[here](http://www.mobipocket.com/soft/prcgen/mobigen.zip), extract it and
+convert it to mobi format using wine or follow steps manually yourself.
 
-9. Extract mobigen.zip file
-
-10. Run mobigen.exe dictionary.opf
-
-    `wine mobigen.exe dictionary.opf`
-
-11. If everything goes right, you will get dictionary.mobi which’ll be the
+9. If everything goes right, you will get dictionary.mobi which’ll be the
 Gujarati dictionary for Kindle.
 
-12. You can port other dictionaries to Kindle. Some dictionary files are
+10. You can port other dictionaries to Kindle. Some dictionary files are
 available from: http://stardict.sourceforge.net/Dictionaries.php
 
 #### Windows
