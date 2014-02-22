@@ -13,6 +13,8 @@ if [ ! -f mobigen.exe ]; then
     unzip mobigen.zip
     cp mobigen/mobigen.exe .
     rm -rf mobigen mobigen.zip
+else
+    echo "Nothing to download!"
 fi
 
 $WINE mobigen.exe $1
