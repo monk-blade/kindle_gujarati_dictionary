@@ -35,6 +35,12 @@ python tab2opf.py -utf dictionary.txt
 ```
 This will give you a dictionary.opf file and a number of dictionary0.html files.
 
+Or you can use script,
+```
+./tab2opf.sh
+```
+which will execute steps e and f.
+
 g. Edit the dictionary.opf file to specify the name of the dictionary and the
 input/output output languages.
 
